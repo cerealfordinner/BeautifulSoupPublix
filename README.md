@@ -1,2 +1,4 @@
 # BeautifulSoupPublix
-BeautifulSoup Python script for checking if Publix check tender subs are on sale or not
+BeautifulSoup Python script for checking if Publix chicken tender subs are on sale or not
+
+Looks like this may not work anymore as Publix changed there site to require a zip code to be input before it will render the element that BeautifulSoup is checking for. May need to more to comething like Selenium
